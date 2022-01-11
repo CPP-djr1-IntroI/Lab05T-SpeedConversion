@@ -68,7 +68,7 @@ Enter ending KPH value: 103
 Add a project called **Hypotenuse** to your solution that solves the
 following problem.
       
-Click [here](https://en.wikipedia.org/wiki/Right_triangle) for information on right-trianble.
+Click [here](https://en.wikipedia.org/wiki/Right_triangle) for information on right triangle.
 
 A right triangle is a triangle where one of the three
 angles is 90 degrees. An interesting trait of a right triangle is the
@@ -77,15 +77,41 @@ hypotenuse, the side opposite the right angle. The hypotenuse is always
 the longest of the three sides. For this project, you need to use these
 facts to determine if a triangle is a right triangle. You will be given
 the length of each side and must determine which side is potentially the
-hypotenuse. In the figure **a^2^ + b^2^ = c^2^.**
-![](media/image3.png){width="2.375in" height="1.78125in"}
+hypotenuse. Remember **a^2^ + b^2^ = c^2^.** where c is the hypotenuse.
 
 Sample Output
+      
+<pre>
+*** Right Triangle ***
+
+Please give me the length of all three sides: 1 1 2
+
+This is not a right triangle!
+</pre>
+
+<pre>
+*** Right Triangle ***
+
+Please give me the length of all three sides: 3 5 4
+
+This is a right triangle!
+The hypotenuse is length: 5
+</pre>
+      
+Test your program on the following input:
+      
+<pre>
+10 8 6
+7 13 10
+5 12 13
+2 4 4
+</pre>
+      
 **To complete this assignment you must submit the following:**
 
 1.  **An electronic Solution of your program on GitHub**
 
-    a.  You are to click on the Lab04 Link on The C++ Tutorials in the section Data Input to accept this
+    a.  You are to click on the Lab05 Link on The C++ Tutorials in the section Data Input to accept this
         assignment as we've done before. Once accepted, code up a
         complete solution to each project specified above. Your
         complete solution is to be pushed to GitHub no later than the
@@ -101,5 +127,5 @@ Sample Output
         you typed everything correctly. Be aware that C++ is
         case-sensitive.
 
-2.  **An electronic pdf (punetidLab04SpeedOfSound.pdf) 
+2.  **An electronic pdf (punetidLab05SpeedConversion.pdf) 
 of your program is to be emailed to ryandj@pacificu.edu**
