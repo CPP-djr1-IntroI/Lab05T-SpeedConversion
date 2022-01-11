@@ -61,8 +61,26 @@ Enter ending KPH value: 103
      75.5     46.9
      85.5     53.1
      95.5     59.3
-
 </pre>
+      
+**Lab 5.2**
+
+Add a project called **Hypotenuse** to your solution that solves the
+following problem.
+      
+Click [here](https://en.wikipedia.org/wiki/Right_triangle) for information on right-trianble.
+
+A right triangle is a triangle where one of the three
+angles is 90 degrees. An interesting trait of a right triangle is the
+fact that the squares of the two sides add up to the square of the
+hypotenuse, the side opposite the right angle. The hypotenuse is always
+the longest of the three sides. For this project, you need to use these
+facts to determine if a triangle is a right triangle. You will be given
+the length of each side and must determine which side is potentially the
+hypotenuse. In the figure **a^2^ + b^2^ = c^2^.**
+![](media/image3.png){width="2.375in" height="1.78125in"}
+
+Sample Output
 **To complete this assignment you must submit the following:**
 
 1.  **An electronic Solution of your program on GitHub**
