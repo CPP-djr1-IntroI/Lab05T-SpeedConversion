@@ -77,7 +77,7 @@ hypotenuse, the side opposite the right angle. The hypotenuse is always
 the longest of the three sides. For this project, you need to use these
 facts to determine if a triangle is a right triangle. You will be given
 the length of each side and must determine which side is potentially the
-hypotenuse. Remember **a^2^ + b^2^ = c^2^.** where c is the hypotenuse.
+      hypotenuse. Remember **a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>.** where c is the hypotenuse.
 
 Sample Output
       
